@@ -41,6 +41,22 @@
         },
         {
             "chainId": 59901,
+            "address": "0xDF5b62fa100b5f67C5a9A5DA500FE7139d169cFe",
+            "decimals": 18,
+            "name": "Test eMETIS",
+            "symbol": “eMETIS",
+            "logoURI": "https://raw.githubusercontent.com/nass2010/testnet.enkixyz.com/main/static/media/ekMetis.f0bd93e976e880cffa80bbbe6c8797e8.svg"
+        },
+        {
+            "chainId": 59901,
+            "address": "0xd11bB6839aF15d0d62F015d97467724c1f8f9489",
+            "decimals": 18,
+            "name": "Test seMETIS",
+            "symbol": “seMETIS",
+            "logoURI": "https://raw.githubusercontent.com/nass2010/testnet.enkixyz.com/main/static/media/sekMetis.d6447f270473bebd8ca4d9a19dfc95dc.svg"
+        },
+        {
+            "chainId": 59901,
             "address": "0xdE89C3A592FBcd9c34A0329919F2904d4114Bc83",
             "decimals": 18,
             "name": "Netswap Token",
